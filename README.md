@@ -24,8 +24,9 @@
   
 <b>4. 이미지<br></b>
 <img width="384" alt="스크린샷 2020-06-24 오후 3 27 50" src="https://user-images.githubusercontent.com/45387801/85541461-fb6cb380-b652-11ea-9816-c4c463df218e.png">
-<img width="484" alt="스크린샷 2020-06-24 오후 3 28 06" src="https://user-images.githubusercontent.com/45387801/85541696-37077d80-b653-11ea-9ce3-d498797d74f1.png">
-<img width="429" alt="스크린샷 2020-06-24 오후 3 28 28" src="https://user-images.githubusercontent.com/45387801/85541801-530b1f00-b653-11ea-8cc6-a14dde92c045.png">
+<img width="384" alt="스크린샷 2020-06-24 오후 3 28 06" src="https://user-images.githubusercontent.com/45387801/85541696-37077d80-b653-11ea-9ce3-d498797d74f1.png">
+<img width="384" alt="스크린샷 2020-06-24 오후 3 28 28" src="https://user-images.githubusercontent.com/45387801/85541801-530b1f00-b653-11ea-8cc6-a14dde92c045.png">
+<img width="384" alt="스크린샷 2020-06-24 오후 3 28 49" src="https://user-images.githubusercontent.com/45387801/85541875-78982880-b653-11ea-9004-b7f5ae46a36f.png">
 
 
 감사합니다 :)
