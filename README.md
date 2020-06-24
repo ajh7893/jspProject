@@ -23,6 +23,7 @@
 <br><br>
   
 <b>4. 이미지<br></b>
+<img width="384" alt="스크린샷 2020-06-24 오후 3 27 50" src="https://user-images.githubusercontent.com/45387801/85541461-fb6cb380-b652-11ea-9816-c4c463df218e.png">
 
 
 감사합니다 :)
